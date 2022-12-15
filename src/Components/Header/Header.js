@@ -1,9 +1,9 @@
-import React from 'react'
+import './Header.scss'
 
 const Header = () => {
   return (
-    <div className="ui fixed menu">
-      <div className="ui container center">
+    <div className="header">
+      <div className="headerWrapper">
         <h2>Kings & Queens Shop</h2>
       </div>
     </div>

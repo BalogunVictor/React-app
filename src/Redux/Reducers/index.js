@@ -6,4 +6,4 @@ const reducers = combineReducers({
   product: selectedProduct,
 });
 
-export default reducers;
+export default reducers; 
